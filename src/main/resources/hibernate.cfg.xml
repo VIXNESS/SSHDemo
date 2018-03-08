@@ -17,8 +17,7 @@
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
         <property name="hbm2ddl.auto">update</property>
         <property name="connection.url">jdbc:mysql://localhost:3306/cos?useUnicode=true&amp;characterEncoding=utf-8&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&amp;useSSL=false</property>
+        <!--example POJOs-->
         <mapping class="pojo.StaffEntity"/>
-        <!--example class-->
-        <!--<mapping class="beans.StandardEntity"/>-->
     </session-factory>
 </hibernate-configuration>
