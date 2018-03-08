@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.interceptor:jboss-interceptor-api:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.interceptor/jboss-interceptor-api/1.1/34bf7bf35cef7df00a6787aa1b5c572526d1bafb/jboss-interceptor-api-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.interceptor/jboss-interceptor-api/1.1/14003806ec4a1dfbc4b32a09eb8cab36837689e/jboss-interceptor-api-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
